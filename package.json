@@ -20,7 +20,5 @@
   "bugs": {
     "url": "https://github.com/perliedman/leaflet-control-geocoder/issues"
   },
-  "dependencies": {
-    "leaflet": "~0.7.2"
-  }
+  "dependencies": {}
 }
